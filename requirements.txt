@@ -1,0 +1,9 @@
+torch
+transformers
+langchain
+chromadb
+fastapi
+bitsandbytes
+sentence-transformers
+uvicorn
+pydantic
