@@ -22,3 +22,5 @@ python run_qwen.py
 
 4. 启动FastAPI后端接口，进行故障智能问答诊断
 python app.py
+<img width="1919" height="859" alt="fb253db88b88ca5113d0e3d48daa67b2" src="https://github.com/user-attachments/assets/07dd1016-b85d-4c2d-8074-86dca736afdb" />
+<img width="1448" height="1012" alt="b6eb188d0d8d241d27bb625c1bddbf3d" src="https://github.com/user-attachments/assets/7965b90d-aa17-44b1-93c6-c08249dc0b56" />
